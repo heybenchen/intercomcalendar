@@ -1,4 +1,4 @@
 # intercomcalendar
 Simple events calendar for Intercom
 
-![Imgur](http://i.imgur.com/bLdZhuj.png)
+![Screenshot](http://i.imgur.com/z7xOlO2.png)
