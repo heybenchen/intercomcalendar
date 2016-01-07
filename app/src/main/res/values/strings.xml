@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="invited">%d Invited</string>
+    <string name="upcoming_events">Upcoming Events</string>
+</resources>
