@@ -1,4 +1,4 @@
 # intercomcalendar
-Simple events calendar for Intercom
+Simple events calendar for Intercom screener
 
-![Screenshot](http://i.imgur.com/z7xOlO2.png)
+<img src="http://i.imgur.com/z7xOlO2.png" width="400px"/>
